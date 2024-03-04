@@ -52,4 +52,4 @@
 
 <br/>
 ## 📫 Contacting Me
-For inquiries about my projects or if you're interested in partnering on a project, I welcome you to reach out to me through <a href="https://www.linkedin.com/in/sergi-serrat-miquel/" target="_blank">LinkedIn</a> or by emailing me at <a href="mailto:lomogreater@gmail.com">lomogreater@gmail.com</a>.
+For inquiries about my projects or if you're interested in partnering on a project, I welcome you to reach out to me through <a href="https://www.linkedin.com/in/sergi-serrat-miquel/" target="_blank">LinkedIn</a> or by emailing me at <a href="mailto:lomogreater@gmail.com">Gmail</a>.
